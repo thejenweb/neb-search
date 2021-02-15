@@ -4,7 +4,7 @@ namespace NebSearch.Models
 {
   public class Image
   {
-    public int ItemId { get; set; }
+    public int ImageId { get; set; }
     public string Height { get; set; }
     public string Width { get; set; }
     public string Url { get; set; }
